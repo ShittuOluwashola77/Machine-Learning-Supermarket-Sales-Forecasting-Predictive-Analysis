@@ -13,3 +13,25 @@ Feedback: Customer Rating.
 Temporal Extraction: Converted raw date and time strings into actionable features: Hour, DayOfWeek, and Month.
 
 Data Cleaning: Performed initial inspection for missing values and confirmed the dataset's structure using descriptive statistics.
+
+## :microscope: Exploratory Data Analysis (EDA)
+
+Sales Distribution: A histogram analysis was performed to understand the central tendency and spread of transaction values.
+
+Categorical Analysis: Explored how sales fluctuate across different product lines, cities, and customer types.
+
+## :bulb: Model Results & Insights
+
+Primary Predictors: The model identified that Tax 5%, gross income, and cogs are the most influential features, as expected from their direct relationship with sales.
+
+Secondary Drivers: Beyond direct financial calculations, Unit price, Quantity, and Rating were key factors in predicting total transaction value.
+
+Operational Trends: Time-based features like Hour and DayOfWeek showed significant variations in average sales, providing a roadmap for staffing optimization.
+
+## :hammer: Business Recommendations
+
+Inventory Optimization: Focus on stock management for high-unit-price items and popular product lines to maximize transaction totals.
+
+Strategic Staffing: Align staffing levels with peak hours and days identified through temporal analysis.
+
+Targeted Marketing: Implement campaigns tailored to the specific customer types and cities that demonstrate the highest average sales.
