@@ -1,7 +1,7 @@
 # :tada: Machine-Learning-Supermarket-Sales-Forecasting-Predictive-Analysis
 This repository contains a Machine Learning pipeline designed to forecast total sales per transaction for a supermarket. By analyzing historical transaction data, the model identifies key drivers of revenue and provides actionable insights for inventory management and operational optimization.
 ##  :chart_with_upwards_trend: Dataset Description
-The analysis is based on a dataset containing 1,000 transaction records. Key features include:
+The analysis is based on a dataset https://github.com/ShittuOluwashola77/Machine-Learning-Supermarket-Sales-Forecasting-Predictive-Analysis/blob/main/SuperMarket%20Analysis.csv containing 1,000 transaction records. Key features include:
 Transactional Data: Invoice ID, Date, Time, Payment method.
 Customer Information: Customer type (Member/Normal), Gender.
 Product Details: Product line, Unit price, Quantity.
